@@ -48,6 +48,7 @@ class ViewController: UIViewController {
         animationView.play()
       
     }
+    // hello 
     
     @IBAction func buttonPressed(_ sender: UIButton) {
         if isTextVisible{
