@@ -55,7 +55,7 @@ class ViewController: UIViewController {
     @IBAction func buttonPressed(_ sender: UIButton) {
         if isTextVisible{
             label1.text = "Hello Everyone!"
-            label2.text = "This is from  chris at the end of the world "
+            label2.text = "from the end of the world "
         }else {
             label1.text = ""
             label2.text = ""
